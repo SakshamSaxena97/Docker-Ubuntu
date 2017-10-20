@@ -20,3 +20,5 @@ $docker run -p 3000:3000 nodeapp
 nodeapp is the folder containing the dockerfile and the node-webapp folder
 
 Open Web Browser- localhost:3000
+
+<h3> Follow the same steps for other Dockerfiles as well <h3>
